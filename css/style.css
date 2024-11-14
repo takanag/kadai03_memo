@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+.container {
+  max-width: 500px;
+  margin-top: 20px;
+}
+.btn-sm {
+  min-width: 80px;
+}
+.btn-favorite {
+  background-color: #ff9800;
+  color: white;
+}
+.btn-delete {
+  background-color: #f44336;
+  color: white;
+}
+.card {
+  margin-bottom: 20px;
+}
+.card-header {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
