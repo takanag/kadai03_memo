@@ -5,7 +5,7 @@
 コストコに買い物に行く際に、お気に入り（リピあり）の商品や過去に買った商品を参考にしながら、買い物リストを作るアプリ。広大なコストコでの買い物は段取りが命なので、事前の買い物リストは必須！
 
 ## ③DEMO
-https://takanag.github.io/kadai02_janken_rich.github.io/
+https://takanag.github.io/kadai03_memo/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 なし
